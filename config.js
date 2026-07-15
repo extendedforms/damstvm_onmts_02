@@ -26,7 +26,7 @@ window.MARKS_WRONG = -1;
 window.EXAM_TZ = "Asia/Kolkata";
 
 // ✅ Fixed exam window in IST
-window.EXAM_START_IST = "2026-07-12T10:00:00+05:30";
+window.EXAM_START_IST = "2026-07-15T10:00:00+05:30";
 window.EXAM_END_IST   = "2026-07-15T22:00:00+05:30";
 
 // ✅ Parsed milliseconds
